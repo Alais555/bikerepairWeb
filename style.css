@@ -1,3 +1,7 @@
+body {
+  background-color: #fc5e55;
+}
+
 .container {
   width: 1024px;
   min-height: 300px;
@@ -6,8 +10,12 @@
 }
 
 header {
-  background-color: rgb(41, 96, 36);
   min-height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 main {
