@@ -4,6 +4,9 @@ html {
 
 body {
   background-image: linear-gradient(#FC5E55, #FA4083);
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  font-size: 1.125rem;
 }
 
 .container {
@@ -42,7 +45,7 @@ main {
 }
 
 .card2 {
-  background-color: rgb(185, 74, 135);
+  background-color: rgb(148, 71, 113);
   min-height: 300px;
   width: 30%;
 }
@@ -55,8 +58,20 @@ main {
 
 .herobox1 {
   flex: 2;
+  padding-right: 100px;
 }
 
 .herobox2 {
   flex: 1;
+}
+
+h1 {
+  font-size: 3.25rem;
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 1rem;
+}
+
+p {
+  line-height: 1.75rem;
+  margin-bottom: 0.5rem;
 }
