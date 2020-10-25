@@ -112,5 +112,10 @@ p {
   background-color: white;
   color: rgb(173, 24, 173);
   font-family: 'Playfair Display', serif;
-  padding: 11px 25px 11px 25px;
+  padding: 11px 25px;
+}
+
+a.mybutton{
+  display: inline-block;
+  margin-top: 20px;
 }
