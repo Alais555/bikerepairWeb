@@ -9,6 +9,11 @@ body {
   font-size: 1.125rem;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
 .container {
   width: 1024px;
   min-height: 300px;
@@ -103,7 +108,9 @@ p {
   padding-top: 30px;
 }
 
-.cards a {
-  color: white;
-  text-decoration: none;
+.mybutton {
+  background-color: white;
+  color: rgb(173, 24, 173);
+  font-family: 'Playfair Display', serif;
+  padding: 11px 25px 11px 25px;
 }
