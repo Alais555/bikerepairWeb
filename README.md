@@ -8,6 +8,8 @@ Purpose is to show the web design for future projects of clean and simple design
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
+..
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. I would appreciate any feedback or contribution to make this website more alive than it is
