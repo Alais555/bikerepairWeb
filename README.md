@@ -10,12 +10,12 @@ Purpose is to show the web design for future projects of clean and simple design
 
 ## Usage
 
-The nabber dropdown is for show. The only button on nav that functions for the user is contact button. Also the logo on the page functions back to the homepage for the user
+The nav bar dropdown is for show. The only button on nav that functions for the user is the contact button. Also the logo on the page functions back to the homepage for the user
 
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. I would appreciate any feedback or contribution to make this website more alive than it is
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. I would appreciate any feedback or contribution to make this website more alive than it is.
 
 Please make sure to update tests as appropriate.
 
