@@ -33,8 +33,6 @@ header {
   border-bottom: 1px solid gray;
 }
 
-
-
 main {
   min-height: 300px;
   display: flex;
@@ -194,4 +192,9 @@ nav a.mybutton {
 
 .dropdown .navbutton a {
   color: rgb(187, 3, 132);
+}
+
+.inputwrapper{
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
