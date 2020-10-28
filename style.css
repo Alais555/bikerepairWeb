@@ -194,7 +194,24 @@ nav a.mybutton {
   color: rgb(187, 3, 132);
 }
 
-.inputwrapper{
+.inputwrapper {
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+input[type=text], input[type=email], textarea {
+  padding: 12px 20px;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.85rem;
+  box-sizing: border-box;
+}
+
+.newline {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.radio-right {
+  margin-right: 20px;
 }
